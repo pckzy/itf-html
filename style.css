@@ -1,0 +1,21 @@
+#head_title{
+    font-size: 100px;
+    color: red;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font: size 105px;
+    font-weight:  bold;
+    color: blue;
+}
+.profile{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(190, 197, 57);
+    border: 3px solid rgb(56, 90, 201);
+    background-color: rgb(60, 10, 45);
+    padding: 100px;
+    width: 300px;
+    text-align: center;
+}
